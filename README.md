@@ -3,7 +3,7 @@ NED
 
 Open-source note creator (NotED) in C++
 ---
-NED is a simple, fast note-taking application developed in C++. Using the advantages of open-sourcing, it hopes to grow to larger, more feature-packed application.
+NED is a simple, fast note-taking application developed in C++. Using the advantages of open-sourcing, it hopes to grow to a larger, more feature-packed application.
 
 ---
 Downloads:
