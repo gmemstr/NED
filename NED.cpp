@@ -33,6 +33,7 @@ Colour coding:
 13  LIGHTMAGENTA
 14  YELLOW
 15  WHITE
+More to come?
    */
 
    int cchoice ;
