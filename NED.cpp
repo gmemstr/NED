@@ -37,7 +37,7 @@ More to come?
    */
 
    int cchoice ;
-   cchoice = 0 ;
+   cchoice = 0 ; //For some reason wouldn't work without this
    cin >> cchoice ;
    system("cls");
    //Clear console for cleaner look
@@ -54,6 +54,10 @@ More to come?
     cout << " ";
   else
     cout << "" ;
+    /*
+    Failed attepmt at
+    newlining :P
+    */
     //VIEW README
     return 0;
 }
