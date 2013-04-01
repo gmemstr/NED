@@ -12,6 +12,7 @@ HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE); //Colours, again.
 int main()
 {
    //Super simple, hope to expand
+   //Greeted with colour selection
    cout << "Choose your text colour (0-15): " ; //User gets to choose text colour
 
   /*
@@ -38,6 +39,8 @@ Colour coding:
    cchoice = 0 ;
    cin >> cchoice ;
    system("cls");
+   //Clear console for cleaner look
+   //End user colour choice
    cout << "NED" << endl;
    cout << "NotED - Open-source note creator - https://github.com/gmemstr/NED" << endl ;
    cout << "Type and press [ENTER] when done." << endl ;
