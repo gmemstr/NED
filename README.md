@@ -2,7 +2,7 @@ NED
 ===
 
 Open-source note creator (NotED) in C++
-===
+---
 
 Requires DLL files from here to work (when compiled as EXE):
 DLLs_NED.zip (342 KB)
