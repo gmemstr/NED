@@ -13,9 +13,9 @@ int main()
 {
    //Super simple, hope to expand
    cout << "Choose your text colour (0-15): " ; //User gets to choose text colour
-  
+
   /*
-Colour coding: 
+Colour coding:
 0   BLACK
 1   BLUE
 2   GREEN
@@ -33,10 +33,11 @@ Colour coding:
 14  YELLOW
 15  WHITE
    */
-   
+
    int cchoice ;
    cchoice = 0 ;
    cin >> cchoice ;
+   system("cls");
    cout << "NED" << endl;
    cout << "NotED - Open-source note creator - https://github.com/gmemstr/NED" << endl ;
    cout << "Type and press [ENTER] when done." << endl ;
