@@ -12,6 +12,6 @@ int main()
    //Used to be a CHAR variable :P
    string a ;
    cin >> a;
-   //VIEW README
+   //View README.md for DLL downloads (hope to get rid of these)
     return 0;
 }
