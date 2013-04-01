@@ -15,10 +15,8 @@ https://mega.co.nz/#!g4BhFSYa!FB7BbTG_vdvH5ih6V1CHxASq3TMaIswR0veu4CFKRbQ
 
 Pre-compiled .EXE can be found here (usually updated a bit after source-code):
 
-NEDv002.exe (29 KB)
-https://mega.co.nz/#!RhISwALa!LW1eXhH8qk1pztAiWEmilHJWPJtWOP59F4E9DxkjEE0
+NEDv003.exe (29 KB)
+https://mega.co.nz/#!0wpnjJSR!Fg1w7BCkVaeatRCFjZFGg2XbMMwch3rtjaFJLJW0deI
 
-
-
----
+===
 //gmemstr <3 MEGA
