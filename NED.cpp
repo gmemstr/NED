@@ -8,6 +8,7 @@ int main()
    cout << "NED" << endl;
    cout << "NotED - Open-source note creator - https://github.com/gmemstr/NED" << endl ;
    cout << "Type and press [ENTER] when done." << endl ;
+   //Hope to do newline instead :(
    cout << " " << endl;
    //Used to be a CHAR variable :P
    string a ;
