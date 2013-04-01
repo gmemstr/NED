@@ -13,9 +13,12 @@ DLL files for .EXE (place in directory where project was compiled):
 DLLs_NED.zip (342 KB)
 https://mega.co.nz/#!g4BhFSYa!FB7BbTG_vdvH5ih6V1CHxASq3TMaIswR0veu4CFKRbQ
 
-Pre-compiled .EXE can be found here:
+Pre-compiled .EXE can be found here (usually updated a bit after source-code):
 
-NEDv001.exe (27 KB)
-https://mega.co.nz/#!ogJCnYTZ!UZLS-19RDU4LZw1C5G0v-0Zvaz91SpHoQS1vQ77GFFU
+NEDv002.exe (29 KB)
+https://mega.co.nz/#!RhISwALa!LW1eXhH8qk1pztAiWEmilHJWPJtWOP59F4E9DxkjEE0
 
+
+
+---
 //gmemstr <3 MEGA
